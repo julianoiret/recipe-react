@@ -2,7 +2,7 @@ const recipesData = [
   {
     id: 1,
     categories: [],
-    name: 'banana',
+    name: 'banana boat',
     description: '',
     type: '',
     time: '',
